@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a73aadcca629184b943cabf97be1b28, type: 3}
+  m_Name: AtlasMain
+  m_EditorClassIdentifier: 
+  Dirt: {fileID: 11400000, guid: 736e13b4fc7de124589f1fdf4ae511f4, type: 2}
+  Stone: {fileID: 11400000, guid: b8b672a056dfb5a489afd851f5423a8a, type: 2}
+  Grass: {fileID: 11400000, guid: 0453c69acfdd323458f442013b876582, type: 2}
+  Snow: {fileID: 11400000, guid: 8795f1bac3c32264fae6bf4b923bc316, type: 2}
+  Sand: {fileID: 11400000, guid: 82d432013cdf8884c95078c308a71f1b, type: 2}
+  Log: {fileID: 11400000, guid: ae2515690f550c547b480376ea445e4c, type: 2}
+  Leaf: {fileID: 11400000, guid: ce522e2733a600849a2a40c6072fb95a, type: 2}
+  RandomObj: {fileID: 0}
+  Gold: {fileID: 11400000, guid: c79b414045a0b1d45803da5ac9ae5b23, type: 2}
+  Diamond: {fileID: 11400000, guid: a57f3c8f37956ef4481edefda9934afe, type: 2}
